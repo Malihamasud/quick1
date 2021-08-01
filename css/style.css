@@ -1,0 +1,270 @@
+*{margin: 0%;
+    padding: 0%;
+    }
+header{
+    border-bottom: 1px solid rgb(197, 196, 196);
+}
+
+
+    .header_part{
+    
+width: 90%;
+    
+margin-left: 5%;
+    
+overflow: hidden;
+    
+margin-top: 10px;
+    
+margin-bottom: 10px;
+    
+/* border-bottom: 1px solid #ccc7c7; */
+    }
+    .logo{
+    
+    width: 20%;
+    
+    float: left;
+    }
+    nav{
+    
+    width: 50%;
+    
+    float: right;
+    
+    overflow: hidden;
+    }
+    nav ul{
+    
+    list-style: none;
+    
+    overflow: hidden;
+    
+    float: right;
+    }
+    nav ul li{
+    
+    float: left;
+    
+    margin-left: 30px;
+    }
+    nav ul li a {
+    
+    text-decoration: none;
+    
+    font-size: 18px;
+    
+    text-transform: capitalize;
+    
+    color: black;
+    }
+    .cs{
+
+width: 70%;
+
+margin-left: 15%;
+
+}
+    .cs h1{
+
+color: #1A305E;
+
+font-size: 45px;
+
+text-align: center;
+
+margin-top: 30px;
+
+}
+    .cs h2{
+
+color: #48ABFF;
+
+text-align: center;
+
+font-size: 45px;
+
+margin-top: 15px;
+
+}
+    .cs p{
+
+color: #1A305E;
+
+text-align: center;
+
+margin: 20px;
+
+}
+    .img{
+
+text-align: center;
+
+}
+    .img img{
+
+width: 50%;
+
+}
+    .pc{
+
+overflow: hidden;
+
+}
+    .lc{
+
+width: 48%;
+
+float: left;
+
+} 
+    .lc h1{
+
+color: #F15767;
+
+}
+    .lc p{
+
+text-align: right;
+
+}
+    .rc{
+
+width: 48%;
+
+float: right;
+
+}
+    .rc h1{
+
+text-align: left;
+
+}
+.sv{
+
+overflow: hidden;
+
+margin-top: 50px;
+
+margin-bottom: 50px;
+}
+.sv_one{
+
+width: 30%;
+
+float: left;
+
+background-color: #FDEBED;
+
+text-align: center;
+
+overflow: hidden;
+
+padding: 30px 0;
+}
+.sv_one img{
+
+text-align: center;
+
+width: 50%;
+}
+.sv_one h2{
+
+text-align: left;
+
+padding: 10px;
+}
+
+.sv_one p{
+
+text-align: left;
+
+padding: 10px;
+}
+
+.sv_two{
+
+margin-left: 5%;
+
+width: 30%;
+
+float: left;
+
+overflow: hidden;
+
+background-color: #EBF9F4;
+
+padding: 30px 0;
+}
+.sv_two img{
+
+width: 50%;
+
+text-align: center;
+
+padding-top: 10px;
+
+margin-left: 60px;
+}
+.sv_two h2{
+
+text-align: left;
+
+padding: 10px;
+}
+.sv_two p{
+
+text-align: left;
+
+padding: 10px;
+}
+
+.sv_three{
+
+width: 30%;
+
+float: right;
+
+background-color: #FFF7E8;
+
+overflow: hidden;
+
+padding: 30px 0;
+}
+.sv_three img{
+
+width: 50%;
+
+text-align: center;
+
+margin-left: 43px;
+}
+.sv_three h2{
+
+text-align: left;
+
+padding: 10px;
+} 
+.sv_three p{
+    
+text-align: left;
+    
+padding: 10px;
+}
+footer{
+    
+background-color: #0a7ee0;
+    
+text-align: center;
+    
+padding: 30px 0;
+}
+footer p{color: #A9AA9;color: #E7EAED;}
+footer p span{
+    
+color: wheat;
+    
+font-size: 20px;
+    
+font font-weight: 700;
+}
